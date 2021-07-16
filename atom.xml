@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://weixing18.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-16T05:34:09.740Z</updated>
+    <updated>2021-07-16T05:36:58.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://weixing18.github.io"/>
     <link rel="self" href="https://weixing18.github.io/atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>https://weixing18.github.io/images/avatar.png</logo>
     <icon>https://weixing18.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[测试用博客]]></title>
+        <id>https://weixing18.github.io/post/ce-shi-yong-bo-ke/</id>
+        <link href="https://weixing18.github.io/post/ce-shi-yong-bo-ke/">
+        </link>
+        <updated>2021-07-16T05:34:24.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="测试">测试</h1>
+<p>测试</p>
+]]></content>
+    </entry>
 </feed>
